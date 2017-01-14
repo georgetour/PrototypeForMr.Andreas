@@ -203,6 +203,15 @@ body{
 
     }
 
+    .topHeader{
+        height: 350px;
+
+    }
+
+    .topHeader h1{
+        font-size: 26px;
+    }
+
     .topHeader-box,.topHeader-box2,.topHeader-box3{
         width: 240px;
         height:200px;
